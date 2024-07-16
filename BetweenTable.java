@@ -1,4 +1,3 @@
-//THODORHS MARINOS AM:5426;
 public class BetweenTable {
     private CardStack stack;
     private Card[] tableCards;
