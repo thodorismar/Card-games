@@ -1,5 +1,3 @@
-//THODORHS MARINOS AM:5426;
-
 import java.util.Random;
 
 public class CardStack {
