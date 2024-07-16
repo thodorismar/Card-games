@@ -1,4 +1,3 @@
-//THODORHS MARINOS AM:5426;
 import java.util.ArrayList;
 import java.util.List;
 
