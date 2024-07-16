@@ -1,4 +1,3 @@
-//THODORHS MARINOS AM:5426;
 public class BetweenDealer {
     private CardStack stack;
     private int pot;
