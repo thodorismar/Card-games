@@ -1,4 +1,3 @@
-//THODORHS MARINOS AM:5426;
 import java.util.HashMap;
 import java.util.Map;
 
