@@ -1,4 +1,3 @@
-//THODORHS MARINOS AM:5426;
 import java.util.Scanner;
 public class Between {
     public static void main(String[] args) {
